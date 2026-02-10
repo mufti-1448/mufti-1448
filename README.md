@@ -1,39 +1,44 @@
-# Hi 👋, I'm M. Khafidhin Mufti Ali
+# Hi 👋, I'm M. Khafidhin Mufti ALi
 
-🎓 RPL Student  
-💻 Android & Web Developer (Beginner)  
-🚀 Currently learning Kotlin & Laravel  
+💻 Mobile & Web Developer Enthusiast  
+🎓 Software Engineering (RPL) Student  
+🚀 Focused on Android Development & Web Applications
+
+---
+
+## 🧑‍💻 About Me
+I am a vocational high school student majoring in Software Engineering (RPL).  
+I enjoy building mobile applications and web-based systems, especially using modern and clean code practices.  
+Currently, I am continuously improving my skills in Android development and backend web technologies.
 
 ---
 
 ## 🛠 Tech Stack
-- Kotlin (Android)
-- PHP (Laravel)
-- HTML, CSS, Bootstrap
-- MySQL
+- **Mobile Development**: Kotlin, Android (RecyclerView, Room)
+- **Web Development**: HTML, CSS, Bootstrap, PHP, Laravel
+- **Database**: MySQL
+- **Tools**: Git, GitHub, VS Code, Android Studio
 
 ---
 
 ## 📌 Featured Projects
-- 📱 **My Friend App** — Android app using Room & RecyclerView  
-- 🛒 **Website Kasir** — Laravel + MySQL  
-- 🌐 **Website Organisasi** — HTML, CSS, Bootstrap  
+- 📱 **My Friend App** — Android app using Room Database & RecyclerView  
+- 🛒 **Website Kasir** — Web-based cashier system with Laravel & MySQL  
+- 🌐 **Website Organisasi** — Organizational profile website  
+
+> More projects are available in my repositories.
 
 ---
 
-## GitHub Stats
-
-![GitHub Stats](https://stats-six.vercel.app/api?username=mufti-1448&show_icons=true)
-
-![Top Languages](https://stats-six.vercel.app/api/top-langs/?username=mufti-1448&layout=compact)
-
-
-
-
+## 📊 GitHub Statistics
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mufti-1448&show_icons=true&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mufti-1448&layout=compact&theme=tokyonight)
 
 ---
 
-## ✨ Goals
-- Improve clean code & UI
-- Build more Android apps
-- Prepare for college & tech career
+## 📫 Contact
+- GitHub: https://github.com/mufti-1448
+
+---
+
+> *"Learning by building, improving by practice."*
