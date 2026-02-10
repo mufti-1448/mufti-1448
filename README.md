@@ -1,16 +1,35 @@
-## Hi there 👋
+# Hi 👋, I'm Mufti
 
-<!--
-**mufti-1448/mufti-1448** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 RPL Student  
+💻 Android & Web Developer (Beginner)  
+🚀 Currently learning Kotlin & Laravel  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠 Tech Stack
+- Kotlin (Android)
+- XML
+- PHP (Laravel)
+- HTML, CSS, Bootstrap
+- MySQL
+
+---
+
+## 📌 Featured Projects
+- 📱 **My Friend App** — Android app using Room & RecyclerView  
+- 🛒 **Website Kasir** — Laravel + MySQL  
+- 🌐 **Website Organisasi** — HTML, CSS, Bootstrap  
+
+---
+
+## 📊 GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mufti-1448&show_icons=true&theme=default)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mufti-1448&layout=compact&theme=default)
+
+---
+
+## ✨ Goals
+- Improve clean code & UI
+- Build more Android apps
+- Prepare for college & tech career
