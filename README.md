@@ -23,9 +23,10 @@
 
 ## GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mufti-1448&show_icons=true&cache_seconds=86400)
+![GitHub Stats](https://stats-six.vercel.app/api?username=mufti-1448&show_icons=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mufti-1448&layout=compact&cache_seconds=86400)
+![Top Languages](https://stats-six.vercel.app/api/top-langs/?username=mufti-1448&layout=compact)
+
 
 
 
