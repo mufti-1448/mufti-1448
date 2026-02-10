@@ -30,14 +30,9 @@ Currently, I am continuously improving my skills in Android development and back
 
 ---
 
-## 📊 GitHub Statistics
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mufti-1448&show_icons=true&theme=tokyonight)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mufti-1448&layout=compact&theme=tokyonight)
-
----
-
 ## 📫 Contact
 - GitHub: https://github.com/mufti-1448
+- Instagram: https://www.instagram.com/qwertynbxyz/
 
 ---
 
