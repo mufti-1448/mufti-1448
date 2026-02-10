@@ -1,4 +1,4 @@
-# Hi 👋, I'm Mufti
+# Hi 👋, I'm M. Khafidhin Mufti Ali
 
 🎓 RPL Student  
 💻 Android & Web Developer (Beginner)  
@@ -8,7 +8,6 @@
 
 ## 🛠 Tech Stack
 - Kotlin (Android)
-- XML
 - PHP (Laravel)
 - HTML, CSS, Bootstrap
 - MySQL
@@ -22,10 +21,11 @@
 
 ---
 
-## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mufti-1448&show_icons=true&theme=default)
+## GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mufti-1448&show_icons=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mufti-1448&layout=compact&theme=default)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mufti-1448&layout=compact)
+
 
 ---
 
