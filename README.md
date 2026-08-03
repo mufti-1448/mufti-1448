@@ -1,32 +1,132 @@
-# Hi 👋, I'm M. Khafidhin Mufti ALi
+<!-- Banner Header -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Hello%20World!&fontSize=70&fontAlignY=35&animation=twinkling&fontColor=ffffff" width="100%" />
+</div>
 
-💻 Mobile & Web Developer Enthusiast  
-🎓 Software Engineering (RPL) Student  
-🚀 Focused on Android Development & Web Applications
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=650&height=70&duration=4000&lines=Hi+There,+I'm+M.+Khafidhin+Mufti+Ali;S1+Information+Systems+Student;Full+Stack+Engineer+Enthusiast;Welcome+To+My+Profile!&color=00F0FF" />
+</h1>
+
+<!-- Social & Profile Badges -->
+<div align="center">
+  <a href="https://github.com/mufti-1448">
+    <img src="https://komarev.com/ghpvc/?username=mufti-1448&label=Profile%20Views&color=FF007F&style=for-the-badge" alt="Profile views" />
+  </a>
+  <a href="mailto:mufti0480@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact_Me-F5A623?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://www.linkedin.com/in/m-khafidhin-mufti-ali-7b2b08335">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://www.instagram.com/qwertynbxyz/">
+    <img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
+</div>
+
+<br/>
 
 ---
 
-# 💫 About Me:
-am a vocational high school student majoring in Software Engineering (RPL) with a strong interest in full-stack web development. I work mainly with Laravel and PHP for backend development, and HTML, CSS, and Bootstrap for building responsive user interfaces. I am highly motivated to learn new technologies, improve my skills continuously, and grow as a developer through real projects and hands-on experience.
+### About Me
 
-
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/qwertynbxyz) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@ic.ryzen.r.dravenhart) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mufti0480@gmail.com) 
-
-# 💻 Tech Stack:
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white) ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=flat&logo=kotlin&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=flat&logo=php&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=flat&logo=vercel&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=flat&logo=bootstrap&logoColor=white) ![Chart.js](https://img.shields.io/badge/chart.js-F5788D.svg?style=flat&logo=chart.js&logoColor=white) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=flat&logo=jquery&logoColor=white) ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=flat&logo=laravel&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=flat&logo=npm&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB) ![Vue.js](https://img.shields.io/badge/vue.js-%2335495e.svg?style=flat&logo=vuedotjs&logoColor=%234FC08D) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=flat&logo=vite&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=flat&logo=apache&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat&logo=mysql&logoColor=white) ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=flat&logo=mariadb&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=flat&logo=postgresql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=flat&logo=sqlite&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat&logo=figma&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=flat&logo=Arduino&logoColor=white) ![AMD](https://img.shields.io/badge/AMD-%23000000.svg?style=flat&logo=amd&logoColor=white) ![nVIDIA](https://img.shields.io/badge/nVIDIA-%2376B900.svg?style=flat&logo=nVIDIA&logoColor=white) ![Epic Games](https://img.shields.io/badge/epicgames-%23313131.svg?style=flat&logo=epicgames&logoColor=white) ![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=flat&logo=steam&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=mufti-1448&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=mufti-1448&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=mufti-1448&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=mufti-1448&limit=5&theme=dark&combine_all_yearly_contributions=true)
+<div align="center">
+  <table>
+    <tr>
+      <td width="60%">
+        <ul>
+          <li><strong>Full Name:</strong> M. Khafidhin Mufti Ali (Ali)</li>
+          <li><strong>Location:</strong> Pekalongan, Indonesia</li>
+          <li><strong>Education:</strong> S1 Information Systems @ <strong>Telkom University Bandung</strong> (2026 – 2030)</li>
+          <li><strong>Current Focus:</strong> Expanding skills in <img src="https://img.shields.io/badge/Laravel_12-FF2D20?style=flat-square&logo=laravel&logoColor=white" align="center" />, <img src="https://img.shields.io/badge/Vue.js_3-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white" align="center" />, and <img src="https://img.shields.io/badge/Inertia.js-9553E8?style=flat-square&logo=inertia&logoColor=white" align="center" />.</li>
+          <li><strong>Target Role:</strong> Full Stack Engineer / Software Engineer.</li>
+          <li><strong>Contact:</strong> Reach me via email at <strong>mufti0480@gmail.com</strong>.</li>
+          <li><strong>Fun Fact:</strong> Turning raw logic into digital products with coffee and clean code.</li>
+        </ul>
+      </td>
+      <td width="40%" align="center">
+        <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" alt="Coding GIF" />
+      </td>
+    </tr>
+  </table>
+</div>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=mufti-1448&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+### Featured Projects
+
+<div align="center">
+  <a href="https://github.com/mufti-1448/bumi-kampus">
+    <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=mufti-1448&repo=bumi-kampus&theme=radical&bg_color=0D1117" alt="Bumi Kampus" width="48%" />
+  </a>
+  <a href="https://github.com/mufti-1448/prime-topup">
+    <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=mufti-1448&repo=prime-topup&theme=radical&bg_color=0D1117" alt="Prime TopUp" width="48%" />
+  </a>
+</div>
+
+<br/>
+
+<div align="center">
+  <a href="https://github.com/mufti-1448/portfolio-website">
+    <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=mufti-1448&repo=portfolio-website&theme=radical&bg_color=0D1117" alt="Portfolio Website" width="48%" />
+  </a>
+  <a href="https://github.com/mufti-1448/Website-Organisasi-New">
+    <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=mufti-1448&repo=Website-Organisasi-New&theme=radical&bg_color=0D1117" alt="Website Organisasi New" width="48%" />
+  </a>
+</div>
+
+---
+
+### Languages and Tools
+
+<div align="center">
+  <h4>Languages & Backend</h4>
+  <img src="https://skillicons.dev/icons?i=php,js,html,css,laravel,mysql,postgres,sqlite&perline=10&theme=dark" alt="Backend Stack" />
+  
+  <br/><br/>
+  
+  <h4>Frontend Frameworks</h4>
+  <img src="https://skillicons.dev/icons?i=vue,react,tailwind,bootstrap&perline=10&theme=dark" alt="Frontend Stack" />
+  
+  <br/><br/>
+  
+  <h4>Tools & Environment</h4>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,androidstudio,figma,vercel&perline=10&theme=dark" alt="Tools" />
+</div>
+
+---
+
+### GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs?username=mufti-1448&show_icons=true&locale=en&layout=compact&theme=radical&hide_border=true&bg_color=0D1117" alt="Top Languages" />
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=mufti-1448&show_icons=true&locale=en&theme=radical&hide_border=true&bg_color=0D1117" alt="GitHub Stats" width="48%" />
+  <img src="https://streak-stats.demolab.com/?user=mufti-1448&theme=radical&hide_border=true&background=0D1117" alt="Streak Stats" width="48%" />
+</div>
+
+<br/>
+
+### Coding Activity Graph
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mufti-1448&theme=react-dark&hide_border=true&bg_color=0D1117" alt="Activity Graph" width="100%" />
+</div>
+
+<br/>
+
+### Contribution Snake
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/mufti-1448/mufti-1448/output/github-contribution-grid-snake.svg" alt="Snake Animation" width="100%" />
+</div>
+
+<br/>
+
+<!-- Footer -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%" />
+</div>
